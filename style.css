@@ -83,3 +83,14 @@ label + textarea {
     width: 100%;
     margin-top: 4px;
 }
+
+input[required],
+textarea[required] {
+
+    border-left: 4px solid var(--accent);
+}
+
+input[type="email"]{
+    background: #f0f6ff;
+}
+
