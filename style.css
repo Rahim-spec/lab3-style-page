@@ -41,3 +41,19 @@ h2 {
   margin: 0 0 var(--space);
 }
 
+
+.site-header {
+  background: var(--brand-dark);
+  color: #fff;
+  padding: var(--space) 24px;
+}
+.site-header h1 {
+  color: #fff;
+  margin: 0;
+}
+nav a {
+  color: #fff;
+  text-decoration: none;
+  padding: 4px 8px;
+}
+
