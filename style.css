@@ -147,3 +147,8 @@ a[href^="http"]::after {
   color: #fff;
 }
 
+main {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 24px var(--space);
+}
