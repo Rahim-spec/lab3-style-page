@@ -169,3 +169,19 @@ footer{
     padding: 24px;
     margin-top: 32px;
 }
+footer p {
+    margin: 0;
+}
+
+button {
+    padding: 10px 20px;
+    border: 0;
+    border-radius: 8px;
+    background: var(--brand);
+    color: #fff;
+    font: inherit;
+    cursor: pointer;
+}
+button:hover {
+    filter: brightness(1.15);
+}
