@@ -23,4 +23,10 @@ body{
   radius: 12px;
 }
 
-
+body{
+    font-family: "Segoe UI",Arial,  sans-serif;
+    font-size: 1rem;
+    line-height: 1.6;
+    color: var(--text);
+    background: var(--bg);
+}
